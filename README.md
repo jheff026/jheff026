@@ -1,16 +1,131 @@
-## Hi there 👋
+# Jefferson Miranda — AI & Workflow Automation Specialist
 
-<!--
-**jheff026/jheff026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Building automation systems that eliminate repetitive work and scale business operations.
 
-Here are some ideas to get you started:
+[![Status](https://img.shields.io/badge/Available%20for-Freelance-00d4ff?style=flat-square)](mailto:jheff.miranda26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jheffm-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jheffm)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated-6fda44?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~0185a916a2abc76f9e)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About Me
+
+I'm Jefferson, a workflow automation specialist from the Philippines focused on building scalable systems using AI, APIs, and no-code automation platforms.
+
+I help businesses:
+
+- Reduce manual work
+- Automate repetitive processes
+- Connect disconnected tools
+- Improve operational efficiency
+- Scale content and marketing workflows
+
+---
+
+## ⚙️ Tech Stack
+
+### Automation Platforms
+- n8n
+- Make.com
+- Zapier
+- Pabbly Connect
+- GoHighLevel
+
+### CRM & Marketing
+- HubSpot
+- ActiveCampaign
+- GoHighLevel
+
+### Development & APIs
+- JavaScript
+- Google Apps Script
+- REST APIs
+- Webhooks
+
+### Data & Productivity
+- Airtable
+- Google Sheets
+- Notion
+
+### AI Tooling
+- OpenAI API
+- Claude API
+- AI content pipelines
+- AI parsing workflows
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 AI Content Repurposing System
+Built an automated pipeline that converts long-form videos and podcasts into:
+- short-form clips
+- captions
+- blog posts
+- social media content
+
+Fully automated publishing workflow with AI-assisted processing.
+
+---
+
+### 🔔 Upwork Opportunity Alert System
+Created a real-time job monitoring system using the Upwork API that:
+- filters high-fit opportunities
+- sends instant notifications
+- reduces response delay
+
+---
+
+### 📊 Expense & API Usage Dashboard
+Developed an automated tracking system for:
+- API consumption
+- operational expenses
+- reporting and analytics
+
+Eliminated manual spreadsheet tracking.
+
+---
+
+## 💼 Services
+
+- Workflow Automation
+- AI-Powered Automations
+- CRM & Marketing Automation
+- API Integrations
+- Webhook Systems
+- Data Sync & Dashboards
+- Process Optimization
+- Automation Consulting
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jheff026&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jheff026&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Portfolio
+
+🚧 Portfolio site coming soon.
+
+Currently building a modern automation portfolio featuring:
+- case studies
+- workflow demos
+- automation showcases
+- AI integrations
+
+---
+
+## 📬 Contact
+
+- 📧 Email: jheff.miranda26@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/jheffm
+- 🟢 Upwork: https://www.upwork.com/freelancers/~0185a916a2abc76f9e
+- 🇵🇭 OnlineJobs.ph: https://www.onlinejobs.ph/jobseekers/info/4625645
+
+---
+
+⭐ Open to freelance projects, long-term collaborations, and automation consulting.
