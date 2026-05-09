@@ -109,13 +109,11 @@ Eliminated manual spreadsheet tracking.
 
 ## 🌐 Portfolio
 
-🚧 Portfolio site coming soon.
+🔗 **Live Website:** https://jheff026.github.io/automation-portfolio/
 
-Currently building a modern automation portfolio featuring:
-- case studies
-- workflow demos
-- automation showcases
-- AI integrations
+A live demonstration of my automation engineering work — featuring real systems I’ve built to streamline operations, connect tools, and automate business workflows using AI and APIs.
+
+Includes case studies, workflow demos, and system breakdowns of automation solutions I’ve implemented for real-world use cases.
 
 ---
 
